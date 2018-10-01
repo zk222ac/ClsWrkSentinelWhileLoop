@@ -27,6 +27,7 @@ namespace ClsWrkSentinelWhileLoop
             }
 
             Console.WriteLine("Now the while loop is terminated");
+
             Console.ReadKey();
 
 
